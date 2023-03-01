@@ -6,4 +6,6 @@ Pada tahun 2023 ini, saya merupakan Student [@Dicodingindonesia] dari Studi Inde
 Jika Anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedn](https://www.linkedin.com/in/iklima-mardiana-30ba82195/)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iklimardiana&theme=radical)
+
 
