@@ -17,4 +17,4 @@ Jika Anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedn](ht
 Hubungi saya di:  
 [Linkedin](https://www.linkedin.com/in/iklima-mardiana-30ba82195/)  
 [Instagram](https://www.instagram.com/iklim.am)  
-[Email](iklimardiana911@gmail.com)  
+<a href="mailto:iklimardiana911@gmail.com">Email</a>
