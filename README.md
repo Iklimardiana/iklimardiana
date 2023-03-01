@@ -1,6 +1,6 @@
 # Halo Semua!  
 
-Nama saya Iklima Mardiana. Saat ini saya sedang mengenyam pendidikan di Universitas Pendidikan Indonesia Jurusan Pendidikan Ilmu Komputer.
+Nama saya Iklima Mardiana. Saat ini saya sedang mengenyam pendidikan di Universitas Pendidikan Indonesia Jurusan Pendidikan Ilmu Komputer. Saya tertarik dengan Pengembangan FrontEnd Web
 
 Pada tahun 2023 ini, saya merupakan peserta dari Studi Independen Bersertifikat Kampus Merdeka di [Dicoding](https://www.dicoding.com/), Learning path Pengembang Fronten & Backend Web.
 
