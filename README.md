@@ -1,10 +1,9 @@
-# Halo Semua!  
+Hello everyone!!
+My name is Iklima Mardiana. I am someone who is interest in web development. I have explored web development through college assignments and online courses I have taken. These experience have allowed me to develop my skills in building attractive and functional web applications. 
 
-Nama saya Iklima Mardiana. Saat ini saya sedang mengenyam pendidikan di Universitas Pendidikan Indonesia Jurusan Pendidikan Ilmu Komputer. Saya tertarik dengan Pengembangan FrontEnd Web
+Currently, I am a student of Computer Science Education at Universitas Pendidikan Indonesia and I am pursuing independent study Front-End web and Back-End development learning path at [Dicoding Indonesia](https://www.dicoding.com/) with the aim of deepening my understanding and skills in web development. I hope to apply this knowledge and skills in the real world, especially in a corporate environment in the future. I believe that with hard work, teamwork, and a commitment to continuous learning, I can achieve a high level of expertise and contribute significantly to web industry in the future.
 
-Pada tahun 2023 ini, saya merupakan peserta dari Studi Independen Bersertifikat Kampus Merdeka di [Dicoding](https://www.dicoding.com/), Learning path Pengembang Front-End & Back-End Web.
-
-Jika Anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedn](https://www.linkedin.com/in/iklima-mardiana-30ba82195/)
+Feel free to connect with me if you share a passion for web development or if you have any exciting opportunities to collaborate on web projects.
 
 
 <p align="left">
@@ -14,7 +13,7 @@ Jika Anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedn](ht
 </a>
 </p>
 
-Hubungi saya di:  
+Connect with me:  
 [Linkedin](https://www.linkedin.com/in/iklima-mardiana-30ba82195/)  
 [Instagram](https://www.instagram.com/iklim.am)  
 <a href="mailto:iklimardiana911@gmail.com">Email</a>
