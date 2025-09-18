@@ -1,9 +1,7 @@
 Hello everyone!!
-My name is Iklima Mardiana. I am someone who is interest in web development. I have explored web development through real project, college assignments, and online courses I have taken. These experience have allowed me to develop my skills in building attractive and functional web applications. 
+My name is Iklima Mardiana. I am passionate about web development and have gained experience through real projects, college assignments, and online courses. These opportunities have helped me build the skills to create attractive and functional web applications.
 
-I hope to apply my knowledge and skills in the real world, especially in a corporate environment in the future. I believe that with hard work, teamwork, and a commitment to continuous learning, I can achieve a high level of expertise and contribute significantly to web industry in the future.
-
-Feel free to connect with me if you share a passion for web development or if you have any exciting opportunities to collaborate on web projects.
+Currently, I work as a coding tutor (web, Scratch, Roblox game development, Python, and machine learning) and a multimedia tutor (3D Blender and Canva). I also open opportunities for anyone who wants to create a website together with me. Through these experiences, I continue to strengthen my technical expertise and communication skills, while staying open to collaboration on exciting projects.
 
 
 <p align="left">
